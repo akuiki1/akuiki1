@@ -1,5 +1,42 @@
 ![akuiki1](img/github-header-banner.png)
 <!-- # 👋 Welcome to My Digital Realm! -->
+<div align="center">
+
+### 📌 Quick Navigation  
+
+<a href="#-about-me">
+  <img src="https://img.shields.io/badge/About%20Me-1abc9c?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#️-my-arsenal-of-technologies">
+  <img src="https://img.shields.io/badge/Technologies-3498db?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</a>
+<a href="#-github-analytics">
+  <img src="https://img.shields.io/badge/Analytics-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#-achievement-unlocked">
+  <img src="https://img.shields.io/badge/Achievements-f39c12?style=for-the-badge&logo=starship&logoColor=white" />
+</a>
+<a href="#-current-mission">
+  <img src="https://img.shields.io/badge/Mission-e74c3c?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+<a href="#-contribution-graph">
+  <img src="https://img.shields.io/badge/Graph-2ecc71?style=for-the-badge&logo=gitgraph&logoColor=white" />
+</a>
+<a href="#-featured-projects">
+  <img src="https://img.shields.io/badge/Projects-e67e22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#-connect-with-me">
+  <img src="https://img.shields.io/badge/Connect-16a085?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#-random-dev-quote">
+  <img src="https://img.shields.io/badge/Quote-8e44ad?style=for-the-badge&logo=quotebook&logoColor=white" />
+</a>
+<a href="#-currently-vibing-to">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+</div>
+
 
 <div align="center">
 
@@ -63,8 +100,14 @@ const rizki = {
 </div>
 
 <div align="center">
+<!-- Option 1: DemoLab (recommended) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akuiki1&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=akuiki1&theme=tokyonight)](https://git.io/streak-stats)
+<!-- Option 2: Alternative host -->
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=akuiki1&theme=tokyonight)](https://git.io/streak-stats)
+
+<!-- Option 3: Different style -->
+[![GitHub Streak](https://streak-stats.demolab.com/graph?username=akuiki1&theme=tokyo-night)](https://git.io/streak-stats)
 
 </div>
 
@@ -74,7 +117,7 @@ const rizki = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akuiki1&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -117,7 +160,7 @@ graph LR
 <a href="https://github.com/akuiki1/sikamtara">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akuiki1&repo=sikamtara&theme=tokyonight" />
 </a>
-<a href="https://github.com/akuiki1/project2">
+<a href="https://github.com/akuiki1/leviathan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akuiki1&repo=leviathan&theme=tokyonight" />
 </a>
 
@@ -151,7 +194,13 @@ graph LR
 
 <div align="center">
 
-[![Spotify](https://novatorem-kygjvjobm-punitkmr.vercel.app/api/spotify)](https://open.spotify.com/user/316gdwvkt3cn2qtke2h7vlzhlyo4?si=IH07sZ4_QkyNXC3rerF1pg)
+<div align="center">
+  <a href="https://open.spotify.com/user/31py3qwahsl76foqwc5f55butple">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31py3qwahsl76foqwc5f55butple&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+  <!-- <img width="12" />
+  <a href="https://app.daily.dev/kimmyxpow"><img src="https://api.daily.dev/devcards/v2/7iThHcyatEBVnTBeYoZ1T.png?type=default&r=57e" width="235" alt="pow's Dev Card"/></a> -->
+</div>
 
 </div>
 
