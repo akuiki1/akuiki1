@@ -1,4 +1,4 @@
-<img width="100%" src="./image/github-header-banner.png" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akuiki1&theme=github_dark" />
 
 <br>
 
