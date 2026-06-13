@@ -26,7 +26,7 @@ Full-stack developer specializing in **Laravel** and the modern PHP ecosystem. I
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=laravel,php,js,tailwind,alpinejs,mysql,git,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=laravel,php,js,ts,vue,react,nodejs,html,css,tailwind,bootstrap,alpinejs,mysql,git,github,postman,vscode,npm&perline=9" />
 
 <br>
 
