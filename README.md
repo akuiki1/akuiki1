@@ -41,11 +41,11 @@ Full-stack developer specializing in **Laravel** and the modern PHP ecosystem. I
 <br>
 
 ## Projects
-
+ 
 | Project | About | Stack |
 |---------|-------|-------|
-| **SIKAMTARA** | Village digital services platform — public service workflows, financial transparency · *Best Final Project · Official learning module* | `Laravel` `Tailwind CSS` `Alpine.js` `MySQL` |
-| **SIKASIR** | Modern point-of-sale system — barcode transactions, real-time cart, inventory management | `Laravel` `Vue.js` `TypeScript` `Inertia.js` |
+| [**SIKAMTARA**](https://github.com/akuiki1/sikamtara) | Village digital services platform — public service workflows, financial transparency · *Best Final Project · Official learning module* | <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpinejs,mysql&perline=4" height="24" /> |
+| [**SIKASIR**](https://github.com/akuiki1/sikasir) | Modern point-of-sale system — barcode transactions, real-time cart, inventory management | <img src="https://skillicons.dev/icons?i=laravel,vue,ts&perline=3" height="24" /> |
 
 <br>
 
