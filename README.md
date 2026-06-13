@@ -40,12 +40,13 @@ Full-stack developer specializing in **Laravel** and the modern PHP ecosystem. I
 
 <br>
 
-## Projects
+## Real Projects
  
 | Project | About | Stack |
 |---------|-------|-------|
 | [**SIKAMTARA**](https://github.com/akuiki1/sikamtara) | Village digital services platform — public service workflows, financial transparency · *Best Final Project · Official learning module* | <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpinejs,mysql&perline=4" height="24" /> |
 | [**SIKASIR**](https://github.com/akuiki1/sikasir) | Modern point-of-sale system — barcode transactions, real-time cart, inventory management | <img src="https://skillicons.dev/icons?i=laravel,vue,ts&perline=3" height="24" /> |
+| [**LEVIATHAN**](https://github.com/akuiki1/leviathan) | Government budgeting intelligence platform — budget allocation analysis, planning support, and policy evaluation · *Anugerah ASN Provincial Innovation Competition* | <img src="https://skillicons.dev/icons?i=laravel,bootstrap,javascript,mysql&perline=4" height="24" /> |
 
 <br>
 
