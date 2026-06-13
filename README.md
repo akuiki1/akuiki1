@@ -1,4 +1,4 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akuiki1&theme=github_dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akuiki1&theme=tokyonight&hide_border=true" />
 
 <br>
 
