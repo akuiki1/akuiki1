@@ -1,146 +1,143 @@
-![akuiki1](img/github-header-banner.png)
+<img width="100%" src="./img/github-header-banner.png" />
 
 <div align="center">
 
-# 👋 Hi, I'm Rizki Syandana
+# Rizki Syandana
 
-### Full-Stack Web Developer • Laravel Enthusiast • Problem Solver
+### Full-Stack Web Developer from Indonesia 🇮🇩
 
-Building modern, scalable, and maintainable web applications with Laravel, Tailwind CSS, and Alpine.js.
+Building digital products with Laravel, Tailwind CSS, Alpine.js, and JavaScript.
 
-<img src="https://komarev.com/ghpvc/?username=akuiki1&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
+  <a href="mailto:rizkisyandana7@gmail.com">Email</a> •
+  <a href="https://github.com/akuiki1">GitHub</a> •
+  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
+  <a href="https://your-portfolio.com">Portfolio</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## /about
 
-```php
-<?php
+```yaml
+name: Rizki Syandana
 
-class Developer
-{
-    public string $name = "Rizki Syandana";
+role: Full-Stack Web Developer
 
-    public array $stack = [
-        "Laravel",
-        "PHP",
-        "JavaScript",
-        "Tailwind CSS",
-        "Alpine.js",
-        "MySQL"
-    ];
+stack:
+  - Laravel
+  - PHP
+  - JavaScript
+  - Tailwind CSS
+  - Alpine.js
+  - MySQL
 
-    public array $currentlyLearning = [
-        "Advanced JavaScript",
-        "Software Architecture",
-        "System Design"
-    ];
+currently_learning:
+  - Advanced JavaScript
+  - Software Architecture
+  - System Design
 
-    public string $focus =
-        "Building useful software that solves real-world problems.";
-}
+focus:
+  - Clean Architecture
+  - Maintainable Code
+  - Business-Oriented Solutions
 ```
 
-### Highlights
+---
 
-* 🏆 Built **Website Desa Kambat Utara** as my final project
-* 📚 Recognized as the best project in the study program
-* 🎓 Adopted as an official learning module for future students
-* 💻 Passionate about clean code and maintainable systems
-* 🌱 Continuously improving my JavaScript and backend architecture skills
+## /impact
+
+🏆 Developed **Website Desa Kambat Utara**
+
+A digital village service platform focused on:
+
+* Online administrative services
+* Financial transparency
+* Public information accessibility
+
+Achievements:
+
+* Best final project in the study program
+* Official learning module for future students
+* Successfully implemented for real-world use
 
 ---
 
-## 🛠 Tech Stack
+## /tech-stack
 
 <div align="center">
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=js,tailwind,html,css" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=laravel,php,js,tailwind,mysql,git,github,vscode&perline=8" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## /github
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akuiki1&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akuiki1&show_icons=true&hide_border=true&theme=transparent" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuiki1&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuiki1&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akuiki1&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akuiki1&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akuiki1&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## /featured-projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/akuiki1/sikamtara">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akuiki1&repo=sikamtara&theme=tokyonight&hide_border=true" />
-</a>
+### SIKAMTARA
 
-<a href="https://github.com/akuiki1/leviathan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akuiki1&repo=leviathan&theme=tokyonight&hide_border=true" />
-</a>
+Village information system focused on digital public services and financial transparency.
 
-</div>
+**Stack**
 
----
+Laravel • Tailwind CSS • Alpine.js • MySQL
 
-## 🤝 Connect With Me
+</td>
 
-<div align="center">
+<td width="50%">
 
-<a href="mailto:rizkisyandana7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### Leviathan
 
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Modern web application built using Laravel ecosystem and modern frontend tooling.
 
-<a href="https://github.com/akuiki1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Stack**
 
-</div>
+Laravel • JavaScript • Tailwind CSS
+
+</td>
+</tr>
+</table>
 
 ---
 
+## /now
+
+Currently building:
+
+* 🌐 Modern business websites
+* 🏪 UMKM digital solutions
+* ⚡ Laravel-based web applications
+* 📚 Deepening JavaScript expertise
+
+---
+
 <div align="center">
 
-### "First solve the problem, then write the code."
-
-⭐ If you like my work, feel free to explore my repositories.
+### Building software that solves real problems.
 
 </div>
