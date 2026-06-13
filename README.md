@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akuiki1/akuiki1/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/akuiki1/akuiki1/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 <br>
 
