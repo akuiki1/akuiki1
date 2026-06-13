@@ -44,19 +44,47 @@ Currently expanding into JavaScript architecture and system design patterns.
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-| Project | Stack | Note |
-|---|---|---|
-| [**SIKAMTARA**](https://github.com/akuiki1/sikamtara) | Laravel · Tailwind CSS · Alpine.js · MySQL | Village digital services platform · Best Final Project |
-| [**SIKASIR**](https://github.com/akuiki1/sikasir) | Laravel · JavaScript · Tailwind CSS | Modern full-stack POS application |
+### 🏆 SIKAMTARA
+**Village Digital Services Platform**
+
+Built a digital village ecosystem focused on administrative services, financial transparency, and citizen accessibility.
+
+**Stack**
+Laravel · Tailwind CSS · Alpine.js · MySQL
+
+**Highlights**
+- Online public service workflows
+- Financial transparency dashboard
+- Best Final Project award
+- Adopted as an official learning module
+
+---
+
+### 🛒 SIKASIR
+**Modern Point of Sale System**
+
+Developed a full-stack POS application to streamline transactions, inventory management, and business operations.
+
+**Stack**
+Laravel · Vue.js · TypeScript · Inertia.js · Tailwind CSS
+
+**Highlights**
+- Barcode-based transaction workflow
+- Real-time cart management
+- Inventory and product management
+- Modern SPA-like user experience
 
 ---
 
 ## Now
 
-- Building business websites and digital tools for local clients across Indonesia
-- Deepening expertise in JavaScript architecture and system design
+- Developing business-oriented web applications with Laravel
+- Creating fast, responsive, and maintainable user experiences
+- Advancing skills in JavaScript architecture and software design patterns
+- Exploring scalable system design and modern development workflows
+- Delivering practical digital solutions that solve real business problems
 
 ---
 
