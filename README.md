@@ -52,7 +52,9 @@ Full-stack developer specializing in **Laravel** and the modern PHP ecosystem. I
 
 ## Now
 
-Building business-oriented web apps with Laravel · advancing JavaScript architecture and software design patterns · exploring scalable system design and modern development workflows.
+- Building digital solutions for public services and businesses
+- Designing scalable and maintainable software architectures
+- Creating systems with measurable real-world impact
 
 <br>
 
