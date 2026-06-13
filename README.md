@@ -1,4 +1,4 @@
-<img width="100%" src="./img/github-header-banner.png" />
+<img width="100%" src="./image/github-header-banner.png" />
 
 <br>
 
