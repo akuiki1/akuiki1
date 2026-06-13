@@ -1,4 +1,6 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akuiki1&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akuiki1/akuiki1/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <br>
 
