@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/akuiki1/akuiki1/snake-output/snake.svg" alt="Snake animation" />
 
-###
-
 <br>
 
 <div align="center">
