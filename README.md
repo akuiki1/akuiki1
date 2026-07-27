@@ -12,9 +12,9 @@
 
 [![Email](https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:rizkisyandana7@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rizki-syandana/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://nusandi.page.gd/)
 
 </div>
 
