@@ -33,20 +33,21 @@ Full-stack developer specializing in **Laravel** and the modern PHP ecosystem. I
 ## Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akuiki1&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuiki1&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akuiki1&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akuiki1&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuiki1&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akuiki1&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <br>
 
 ## Real Projects
- 
+
 | Project | About | Stack |
 |---------|-------|-------|
-| [**SIKAMTARA**](https://github.com/akuiki1/sikamtara) | Village digital services platform — public service workflows, financial transparency · *Best Final Project · Official learning module* | <img src="https://skillicons.dev/icons?i=laravel,tailwind,alpinejs,mysql&perline=4" height="24" /> |
-| [**SIKASIR**](https://github.com/akuiki1/sikasir) | Modern point-of-sale system — barcode transactions, real-time cart, inventory management | <img src="https://skillicons.dev/icons?i=laravel,vue,ts&perline=3" height="24" /> |
-| [**LEVIATHAN**](https://github.com/akuiki1/leviathan) | Government budgeting intelligence platform — budget allocation analysis, planning support, and policy evaluation · *Anugerah ASN Provincial Innovation Competition* | <img src="https://skillicons.dev/icons?i=laravel,bootstrap,javascript,mysql&perline=4" height="24" /> |
+| [**SIKAMTARA**](https://github.com/akuiki1/sikamtara) | Village information system for Desa Kambat Utara — population and family data, APBDes transparency, online letter requests with verification, trackable public complaints · *Selected as the study program's official teaching module* | <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,alpinejs,mysql&perline=5" height="24" /> |
+| [**SIGAP**](https://github.com/akuiki1/sigap) | Building-project records for Dinas PUPR Cipta Karya — work packages, per-stage document checklists, photo-verified progress, coordinate mapping on an interactive map, audit mode | <img src="https://skillicons.dev/icons?i=laravel,react,ts,tailwind&perline=4" height="24" /> |
+| [**SIKASIR**](https://github.com/akuiki1/SiKasir) | POS and online storefront for a snack SME in Barabai — three sale types, automatic reseller pricing, stock-holding order queue, stock cards, barcode generation · *Running in production* | <img src="https://skillicons.dev/icons?i=laravel,vue,ts,mysql&perline=4" height="24" /> |
+| [**TITIR**](https://github.com/akuiki1/leviathan) | Honorarium quota control for civil-servant work teams — per-echelon yearly caps enforced at submission instead of at audit, drill-down reports, Excel import and export · *Entered in the Anugerah ASN provincial innovation programme* | <img src="https://skillicons.dev/icons?i=laravel,bootstrap,mysql&perline=3" height="24" /> |
 
 <br>
 
@@ -61,5 +62,5 @@ Full-stack developer specializing in **Laravel** and the modern PHP ecosystem. I
 ---
 
 <div align="center">
-  <sub>Building software that solves real problems.</sub>
+<sub>Building software that solves real problems.</sub>
 </div>
