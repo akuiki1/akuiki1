@@ -6,7 +6,7 @@
 
 # Rizki Syandana
 
-**Full-Stack Web Developer** · Indonesia 🇮🇩
+**Web Developer** · Laravel · Inertia.js · Vue 3 / React · Indonesia 🇮🇩
 
 <br>
 
@@ -20,13 +20,22 @@
 
 <br>
 
-Full-stack developer specializing in **Laravel** and the modern PHP ecosystem. I build web applications with clean architecture — purposeful, maintainable systems that solve real problems. Currently expanding into JavaScript architecture and system design patterns.
+Full-stack web developer working mainly in Laravel. I build systems that end up in daily use at government agencies and small businesses in South Kalimantan — point of sale, village administration, honorarium quota control, project record-keeping — and I usually take them end to end, from requirements and database design through deployment and user training.
+
+I keep business rules in a service layer instead of controllers, and I care about the unglamorous parts: quotas that still resolve correctly when someone changes position mid-year, reports that show net profit rather than just turnover, and apps that stay usable when the connection drops.
 
 <br>
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=laravel,php,js,ts,vue,react,nodejs,html,css,tailwind,bootstrap,alpinejs,mysql,git,github,postman,vscode,npm&perline=9" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,ts,js,vue,react,tailwind,bootstrap,alpinejs,vite,git,github,py&perline=7" />
+
+| | |
+|---|---|
+| **Backend** | PHP 8.3 · Laravel 11–13 · Eloquent · Filament · Livewire · Laravel Excel · mPDF · PhpSpreadsheet |
+| **Frontend** | Inertia.js · Vue 3 · React · TypeScript · Tailwind CSS · Bootstrap 5 · Alpine.js |
+| **Data** | MySQL · schema and ERD design · migrations · complex relations · query tuning |
+| **Tooling** | Vite · Git & GitHub · Pest / PHPUnit · shared hosting and cPanel deployment · Python for automation |
 
 <br>
 
@@ -53,9 +62,10 @@ Full-stack developer specializing in **Laravel** and the modern PHP ecosystem. I
 
 ## Now
 
-- Building digital solutions for public services and businesses
-- Designing scalable and maintainable software architectures
-- Creating systems with measurable real-world impact
+- Running **Nusandi**, a software house serving government agencies and small businesses in South Kalimantan
+- Administrative staff at **Dinas PUPR Hulu Sungai Tengah**, where SIGAP began as something I built outside my job description
+- D-III Information Systems graduate, Politeknik Negeri Banjarmasin (2025)
+- Open to full-time work as a web or backend developer
 
 <br>
 
